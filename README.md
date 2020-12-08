@@ -8,6 +8,6 @@ The ruleset is a project started by [Marie Saldaña](http://www.mariesaldana.com
 
 Download the [ruleset](https://github.com/mariegsaldana/Roman-City-Ruleset/archive/master.zip)
 
-Download [assets](https://www.dropbox.com/sh/e7itmimpmrohsj8/AACbXlwgFHH7XqN3dw_URU3Ea?dl=0)
+Download [assets](https://drive.google.com/drive/folders/1corLwC4ROSoWJLJNmn-9FOFae1E7OSMQ?usp=sharing)
 
 [ArcGIS - CityEngine - Unity workflow tutorial](https://github.com/mariegsaldana/Roman-City-Ruleset/wiki/ArcGIS__CityEngine__Unity:-Workflow-Tutorial)
